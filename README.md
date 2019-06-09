@@ -1,2 +1,2 @@
-# rss-ap
-Real Smart Suite- AP Edition
+# rcs
+Real Smart Suite- standard Edition
